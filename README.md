@@ -1,4 +1,4 @@
-#Personal Finances
+# Personal Finances
 
 This was the final challenge proposed to students in the Initial C# course. This course was taught by me, online and free.
 
@@ -7,7 +7,6 @@ The objective of this challenge was to consolidate the concepts studied so far i
 The challenge was divided into 3 parts:
 
 Part 01 - Implementation of revenue management (code found in this repository);
-
 Part 02 - Implementation of expense management.
 Part 03- Implementation of the Statement.
 
